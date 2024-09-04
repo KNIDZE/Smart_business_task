@@ -1,6 +1,6 @@
 # Link to Webapplication on Vercel
 
-[UserTable Link](smartbusinessuserstable-r6fgtubci-knidzes-projects.vercel.app)
+[UserTable Link](https://smartbusinessuserstable-knidzes-projects.vercel.app/)
 
 # UserTable
 
